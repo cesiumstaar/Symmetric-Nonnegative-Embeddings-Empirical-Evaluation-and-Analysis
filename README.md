@@ -1,2 +1,3 @@
 # Symmetric-Nonnegative-Embeddings-Empirical-Evaluation-and-Analysis
-Course project for CS768: Learning with Graphs (Spring 2025), involving a reproduction and in-depth analysis of the NeurIPS 2023 paper on Symmetric Nonnegative Embeddings (DSNE), with extensive experiments and ablation studies on low-rank graph representations.
+This repository contains my course project for CS768: Learning with Graphs, completed in Spring 2025. The project involves a reimplementation and empirical analysis of the DSNE model (NeurIPS 2023) for low-rank graph embeddings. It compares DSNE with classical methods (SVD, LPCA, BigClam), includes ablation studies (hinge loss, softmax constraints), and evaluates performance on synthetic triangle-rich and heterophilic graphs.
+Due to the exceptional quality of this work, our team was awarded a direct AA (highest grade) in the course, overriding standard grade calculations.
